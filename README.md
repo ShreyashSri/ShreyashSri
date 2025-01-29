@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyash.sri09@gmail.com**
 
-- ⚡ Fun fact **Opposite of Extraordinary is Extra ordinary**
+- ⚡ Fun fact: **Opposite of Extraordinary is Extra ordinary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
