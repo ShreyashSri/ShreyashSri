@@ -52,3 +52,10 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyashSri&theme=aura_dark"></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSri&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
