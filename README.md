@@ -13,13 +13,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/imshreyashsri" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="shreyashsri" height="50" width="50" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shreyashsri" />
   </a>
   <a href="https://linkedin.com/in/ShreyashSri" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shreyashsri" height="50" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shreyashsri" />
   </a>
-  <a href="https://instagram.com/imshreyashsri" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="shreyashsri" height="50" width="50" />
+  <a href="https://gitlab.com/ShreyashSri" target="blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="shreyashsri" />
   </a>
 </p>
 
@@ -56,8 +56,10 @@
     </td>
    </tr>
 </table>
+<div align="center">
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyashSri&theme=dark"></td>
   </tr>
 </table>
+</div>
