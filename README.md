@@ -1,20 +1,13 @@
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="400" width="600" alt="animated hello">
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+[![An image of @shreyashsri's Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/shreyashsri)](https://holopin.io/@shreyashsri)
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ShreyashSri&label=Visitors&color=0e75b6&style=flat-square" alt="shreyashsri" /> 
 </p>
 
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left">💫 I'm Shreyash Srivastava</h1>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 👨‍💻 All of my projects are available at **http://localhost:8000/**
-
+- 🌱 I'm interested in backend development.
 - 📫 How to reach me: **shreyash.sri09@gmail.com**
-
-- ⚡ Fun fact: Opposite of Extraordinary is Extra ordinary
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,7 +23,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -83,10 +75,3 @@
     </td>
   </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🏆 Holopin Badges
-[![An image of @shreyashsri's Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/shreyashsri)](https://holopin.io/@shreyashsri)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
