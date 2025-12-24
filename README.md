@@ -6,7 +6,7 @@
 
 <h1 align="left">💫 I'm Shreyash Srivastava</h1>
 
-- 🌱 I'm interested in backend development.
+- 🌱 Interested in Backend development.
 - 📫 How to reach me: **shreyash.sri09@gmail.com**
 
 
@@ -47,7 +47,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 # 📊 GitHub Stats:
 <table>
