@@ -52,15 +52,6 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=ShreyashSri&theme=dark&hide_border=true&card_width=705" alt="" />
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <table>
-    <tr>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyashSri&theme=dark"></td>
     </tr>
   </table>
