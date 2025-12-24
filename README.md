@@ -55,22 +55,9 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=ShreyashSri&theme=dark&hide_border=true&card_width=705" alt="" />
     </td>
    </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyashSri&theme=dark">
-     </td>
-   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyashSri&theme=dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyashSri&theme=dark"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSri&show_icons=true&theme=dark" />
-    </td>
   </tr>
 </table>
