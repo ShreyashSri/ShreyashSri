@@ -1,14 +1,16 @@
-[![An image of @shreyashsri's Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/shreyashsri)](https://holopin.io/@shreyashsri)
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ShreyashSri&label=Visitors&color=0e75b6&style=flat-square" alt="shreyashsri" /> 
 </p>
 
-<h1 align="left">💫 I'm Shreyash Srivastava</h1>
+# 💫 I'm Shreyash Srivastava
 
-- 🌱 Interested in Backend development.
+- 🏅 **Certified Kubernetes Application Developer (CKAD)**
+- 💻 **Backend Developer** @ Seeqlo (Aug - Feb)
+- 🚀 **Full Stack Developer** @ Ignito Co. (July - Aug)
+- 🌱 Interested in Backend development and Devops.
 - 📫 How to reach me: **shreyash.sri09@gmail.com**
 
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,36 +25,34 @@
   </a>
 </p>
 
+<br />
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<p align="center">
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,git,go,python,ts" />
+</p>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyashSri&theme=dark"></td>
-    </tr>
-  </table>
+<p align="center">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=nextjs,bootstrap,django,flask,firebase,supabase,mongodb,mysql,postgres,sqlite" />
+</p>
+
+<br />
+
+### 🏆 Certifications:
+
+<div align="left">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b12bdc3c-f06b-4923-8591-2975d788de3c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  &nbsp;&nbsp;
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d27369c4-2240-4b99-bc77-e433e450f829" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
+
+<br />
+
+<p align="left">
+  <a href="https://holopin.io/@shreyashsri" target="_blank">
+    <img src="https://holopin.me/shreyashsri" alt="An image of @shreyashsri's Holopin badges, which is a link to view my full Holopin profile" />
+  </a>
+</p>
