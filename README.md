@@ -10,8 +10,6 @@
 - 🌱 Interested in Backend development and Devops.
 - 📫 How to reach me: **shreyash.sri09@gmail.com**
 
-<br />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/imshreyashsri" target="blank">
@@ -41,15 +39,15 @@
 
 <br />
 
-### 🏆 Badges:
+## 🏆 Badges:
 
 <p align="center">
   <a href="https://www.credly.com/badges/b12bdc3c-f06b-4923-8591-2975d788de3c/public_url" target="_blank">
-    <img src="./ckad-certified-kubernetes-application-developer.png" alt="CKAD Badge" width="180" />
+    <img src="./ckad-certified-kubernetes-application-developer.png" alt="CKAD Badge" width="150" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/d27369c4-2240-4b99-bc77-e433e450f829/public_url" target="_blank">
-    <img src="./lfs258-kubernetes-fundamentals.png" alt="Kubernetes Fundamentals Badge" width="180" />
+    <img src="./lfs258-kubernetes-fundamentals.png" alt="Kubernetes Fundamentals Badge" width="150" />
   </a>
 </p>
 
