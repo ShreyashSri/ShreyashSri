@@ -41,13 +41,17 @@
 
 <br />
 
-### 🏆 Certifications:
+### 🏆 Badges:
 
-<div align="left">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b12bdc3c-f06b-4923-8591-2975d788de3c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  &nbsp;&nbsp;
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d27369c4-2240-4b99-bc77-e433e450f829" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/b12bdc3c-f06b-4923-8591-2975d788de3c/public_url" target="_blank">
+    <img src="./ckad-certified-kubernetes-application-developer.png" alt="CKAD Badge" width="180" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/d27369c4-2240-4b99-bc77-e433e450f829/public_url" target="_blank">
+    <img src="./lfs258-kubernetes-fundamentals.png" alt="Kubernetes Fundamentals Badge" width="180" />
+  </a>
+</p>
 
 <br />
 
