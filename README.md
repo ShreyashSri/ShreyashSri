@@ -2,13 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=ShreyashSri&label=Visitors&color=0e75b6&style=flat-square" alt="shreyashsri" /> 
 </p>
 
-# 💫 I'm Shreyash Srivastava
+# Hey! I'm Shreyash Srivastava
 
-- 🏅 **Certified Kubernetes Application Developer (CKAD)**
-- 💻 **Backend Developer** @ Seeqlo (Aug - Feb)
-- 🚀 **Full Stack Developer** @ Ignito Co. (July - Aug)
-- 🌱 Interested in Backend development and Devops.
-- 📫 How to reach me: **shreyash.sri09@gmail.com**
+- **Certified Kubernetes Application Developer (CKAD)**
+- **Backend Developer** @ Seeqlo (Aug - Feb)
+- **Full Stack Developer** @ Ignito Co. (July - Aug)
+- Interested in Backend development and Devops.
+- How to reach me: **shreyash.sri09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 
 <br />
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 <p align="center">
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="54" height="54" />
@@ -39,7 +39,7 @@
 
 <br />
 
-## 🏆 Badges:
+## Badges:
 
 <p align="center">
   <a href="https://www.credly.com/badges/b12bdc3c-f06b-4923-8591-2975d788de3c/public_url" target="_blank">
